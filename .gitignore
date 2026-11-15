@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets
+.env
+
+# Media (too large for git)
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+output/
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
